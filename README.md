@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![Circle's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=LittleCircleOO&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Circle's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LittleCircleOO&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
 <!--
 **LittleCircleOO/LittleCircleOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
